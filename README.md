@@ -1,6 +1,6 @@
 # crypto_currencies_price
 
-Merge charts of all crypto currencies in Coincheck to one image and post it to slack.
+Merge charts of all crypto currencies(*/JPY) in Coincheck to one image and post it to slack.
 
 ## Usage
 
